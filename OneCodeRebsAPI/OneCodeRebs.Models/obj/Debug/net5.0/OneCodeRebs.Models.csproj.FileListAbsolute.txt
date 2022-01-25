@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\bin\Debug\net5.0\OneCodeRebs.Models.deps.json
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\bin\Debug\net5.0\OneCodeRebs.Models.dll
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\bin\Debug\net5.0\ref\OneCodeRebs.Models.dll
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\bin\Debug\net5.0\OneCodeRebs.Models.pdb
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.AssemblyInfo.cs
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.dll
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\ref\OneCodeRebs.Models.dll
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.pdb
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\bin\Debug\net5.0\OneCodeRebs.Models.runtimeconfig.json
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\bin\Debug\net5.0\OneCodeRebs.Models.runtimeconfig.dev.json
+C:\Users\acer\Documents\Ummi Zakiyah Ibrati\.Net API CRUD\project\Rebs\OneCodeRebsAPI\OneCodeRebs.Models\obj\Debug\net5.0\OneCodeRebs.Models.genruntimeconfig.cache
